@@ -79,3 +79,6 @@
 [submodule "mods/basic_materials"]
 	path = mods/basic_materials
 	url = https://gitlab.com/VanessaE/basic_materials
+[submodule "mods/ts_workshop"]
+	path = mods/ts_workshop
+	url = https://github.com/minetest-mods/ts_workshop
