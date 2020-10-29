@@ -1,0 +1,81 @@
+[submodule "mods/fake_fire"]
+	path = mods/fake_fire
+	url = https://github.com/LazyJ/fake_fire
+[submodule "mods/moreores"]
+	path = mods/moreores
+	url = https://github.com/minetest-mods/moreores
+[submodule "mods/moreblocks"]
+	path = mods/moreblocks
+	url = https://github.com/minetest-mods/moreblocks
+[submodule "mods/mesecons"]
+	path = mods/mesecons
+	url = https://github.com/minetest-mods/mesecons
+[submodule "mods/technic"]
+	path = mods/technic
+	url = https://github.com/minetest-mods/technic
+[submodule "mods/3d_armor"]
+	path = mods/3d_armor
+	url = https://github.com/minetest-mods/3d_armor
+[submodule "mods/nether"]
+	path = mods/nether
+	url = https://github.com/minetest-mods/nether
+[submodule "mods/skinsdb"]
+	path = mods/skinsdb
+	url = https://github.com/minetest-mods/skinsdb
+[submodule "mods/trash_can"]
+	path = mods/trash_can
+	url = https://github.com/minetest-mods/trash_can
+[submodule "mods/digilines"]
+	path = mods/digilines
+	url = https://github.com/minetest-mods/digilines
+[submodule "mods/unified_inventory"]
+	path = mods/unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory
+[submodule "mods/filter"]
+	path = mods/filter
+	url = https://github.com/minetest-mods/filter
+[submodule "mods/smartfs"]
+	path = mods/smartfs
+	url = https://github.com/minetest-mods/smartfs
+[submodule "mods/framedglass"]
+	path = mods/framedglass
+	url = https://github.com/minetest-mods/framedglass
+[submodule "mods/unifiedbricks"]
+	path = mods/unifiedbricks
+	url = https://github.com/minetest-mods/unifiedbricks
+[submodule "mods/mydoors"]
+	path = mods/mydoors
+	url = https://github.com/minetest-mods/mydoors
+[submodule "mods/wiki"]
+	path = mods/wiki
+	url = https://github.com/Grid-Life-Gaming/wiki
+[submodule "mods/mydeck"]
+	path = mods/mydeck
+	url = https://github.com/minetest-mods/mydeck
+[submodule "mods/minetest-color_blocks-mod"]
+	path = mods/color_blocks
+	url = https://github.com/PrairieAstronomer/minetest-color_blocks-mod
+[submodule "mods/homedecor_modpack"]
+	path = mods/homedecor_modpack
+	url = https://gitlab.com/VanessaE/homedecor_modpack
+[submodule "mods/streets"]
+	path = mods/streets
+	url = https://github.com/minetest-streets/streets
+[submodule "mods/pipeworks"]
+	path = mods/pipeworks
+	url = https://gitlab.com/VanessaE/pipeworks
+[submodule "mods/basic_signs"]
+	path = mods/basic_signs
+	url = https://gitlab.com/VanessaE/basic_signs
+[submodule "mods/led_marquee"]
+	path = mods/led_marquee
+	url = https://gitlab.com/VanessaE/led_marquee
+[submodule "mods/unifieddyes"]
+	path = mods/unifieddyes
+	url = https://gitlab.com/VanessaE/unifieddyes
+[submodule "mods/dreambuilder_hotbar"]
+	path = mods/dreambuilder_hotbar
+	url = https://gitlab.com/VanessaE/dreambuilder_hotbar
+[submodule "mods/signs_lib"]
+	path = mods/signs_lib
+	url = https://gitlab.com/VanessaE/signs_lib
