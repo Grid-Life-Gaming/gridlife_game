@@ -1,6 +1,3 @@
-[submodule "mods/fake_fire"]
-	path = mods/fake_fire
-	url = https://github.com/LazyJ/fake_fire
 [submodule "mods/moreores"]
 	path = mods/moreores
 	url = https://github.com/minetest-mods/moreores
@@ -79,3 +76,6 @@
 [submodule "mods/signs_lib"]
 	path = mods/signs_lib
 	url = https://gitlab.com/VanessaE/signs_lib
+[submodule "mods/basic_materials"]
+	path = mods/basic_materials
+	url = https://gitlab.com/VanessaE/basic_materials
