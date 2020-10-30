@@ -1,0 +1,33 @@
+name: Lua CI
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+      - uses: leafo/gh-actions-lua@v7
+      - uses: leafo/gh-actions-luarocks@v3
+
+      - name: Install Luacheck Package with LuaRocks
+        run: luarocks install --local luacheck
+
+      - name: Check for errors in mods dir
+        run: $HOME/.luarocks/bin/luacheck ./mods
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
