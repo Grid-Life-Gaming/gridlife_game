@@ -82,3 +82,6 @@
 [submodule "mods/ts_workshop"]
 	path = mods/ts_workshop
 	url = https://github.com/minetest-mods/ts_workshop
+[submodule "mods/mapserver_mod"]
+	path = mods/mapserver
+	url = https://github.com/minetest-mapserver/mapserver_mod
