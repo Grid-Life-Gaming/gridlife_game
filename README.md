@@ -1,3 +1,5 @@
+![Lua CI](https://github.com/Grid-Life-Gaming/gridlife_game/workflows/Lua%20CI/badge.svg?branch=master) [![License: LGPL v2.1](https://img.shields.io/badge/License-LGPL%20v2.1-blue.svg)](https://www.gnu.org/licenses/old-licenses/lgpl-2.1)
+
 # GridLife Game
 
 GridLife is based on the default game bundled in the Minetest engine.  
