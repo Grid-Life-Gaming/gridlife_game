@@ -88,3 +88,6 @@
 [submodule "mods/travelnet"]
 	path = mods/travelnet
 	url = https://github.com/Sokomine/travelnet
+[submodule "mods/farming"]
+	path = mods/farming
+	url = https://notabug.org/TenPlus1/Farming
