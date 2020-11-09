@@ -85,3 +85,6 @@
 [submodule "mods/mapserver_mod"]
 	path = mods/mapserver
 	url = https://github.com/minetest-mapserver/mapserver_mod
+[submodule "mods/travelnet"]
+	path = mods/travelnet
+	url = https://github.com/Sokomine/travelnet
